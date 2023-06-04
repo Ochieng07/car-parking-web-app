@@ -1,2 +1,8 @@
-# car-parking-web-app
-The Car Parking Information System is a web-based application designed to manage and monitor parking spaces in a parking lot or facility. It provides an efficient way to track and organize parking spaces, enabling users to easily find available parking spots and manage parking-related tasks.
+# Django-Car-Parking-Information-Management-System
+This is Django Car Parking Information Management System, web app for managing information of clients parking cars. It is developed by Django 3.2.
+The full tutorial is found at https://www.youtube.com/watch?v=fRhLypv-sko
+
+
+
+DJANGO Car Parking Information Management System
+![alt text](https://github.com/MoTechStore/Django-Car-Parking-Information-Management-System/blob/master/thumb.png)
